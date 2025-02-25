@@ -13,6 +13,7 @@ My favorite outputs are the ones that sorted and counted.
 I’m glad we learned how to update the system, but it took a few tries to realize that I had to enter the “sudo apt upgrade command”, followed by the “y” for yes. I must say, it’s a bit overwhelming to see all of the text populate so quickly. I’m still not sure what information is relevant, and what is standard.
 
 *Using Yaz*
+
 Installing yaz went well. I was able to do the basic search commands with relative ease. 
 Things got a little more complicated with json. So, I stepped away and tried again the next day.
 
@@ -25,4 +26,5 @@ The biggest take away this week, make time for multiple reviews of the reading, 
 # Recommended Grade:  A
 
 *Rationale*
-I understood what to expect in this module. It turns out, I need to rewatch the lectures a few times, in order for the content to really sink in. The activities help reinforce what I am learning.
+
+I have a better understanding of what to expect in this module. It turns out, I need to rewatch the lectures a few times, in order for the content to really sink in. The activities help reinforce what I am learning.
